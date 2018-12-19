@@ -98,15 +98,11 @@ form p{
     color:white;
     font-weight: bold;
     border-radius:10px;
-    height:70px;
+    width:300px;
+    
 }
 
-#input_btn a{
-    text-decoration: none;
-    padding:40px;
-    font-size: 20px;
-    color:white;
-}
+
 
 #input_btn:hover{
     background: rgb(143, 184, 143);
