@@ -30,7 +30,7 @@ body{
   text-align: center;
   padding: 15px 30px;
   text-decoration: none;
-  font-size: 12px;
+  font-size: 15px;
 }
 
 .topnav a:hover {
@@ -40,7 +40,7 @@ body{
 
 .topnav p{
     color: red;
-    font-size:13px;
+    font-size:15px;
     font-weight: bold;
     padding: 5px 10px;
 }
